@@ -10,12 +10,13 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35","Gerbeur _ ACES","24/04/2030","Durable"
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","Gerbeur _ ACES","05/09/2027","Durable"
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","Gerbeur _ ACES","24/04/2030","Durable"
 "Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","VORIN","JEROME","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","BESNIER","ANTOINE","chef equipe c","District 35",NA,NA,NA
-"Chateaubourg","BESNIER","JEAN-LUC","agent d'exploitation","District 35","Gerbeur _ ACES","31/08/2027","Durable"
+"Chateaubourg","BESNIER","JEAN-LUC","agent d'exploitation","District 35","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "Chateaubourg","BOISSEAU","GUENOLE","agent d'exploitation","District 35","Gerbeur _ ACES","04/12/2030","Durable"
 "Chateaubourg","CHAUVIERE","XAVIER","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","DESBLES","HUBERT","responsable de cei","District 35",NA,NA,NA
@@ -29,20 +30,19 @@
 "Chateaubourg","JEANNE","QUENTIN","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","JEULAND","PAUL","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","MICAULT","JEAN-PAUL","agent d'exploitation","District 35",NA,NA,NA
-"Chateaubourg","PASQUALIN","JEAN","agent d'exploitation","District 35","Gerbeur _ ACES","31/08/2027","Durable"
+"Chateaubourg","PASQUALIN","JEAN","agent d'exploitation","District 35","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "Chateaubourg","PREAUCHAT","SEBASTIEN","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","TESNIERE","JACQUES","agent d'exploitation","District 35","Gerbeur _ ACES","04/12/2030","Durable"
 "Mayenne","ANSQUER","FREDERIC","responsable d'explo","District 35",NA,NA,NA
-"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35","Gerbeur _ ACES","13/11/2030","Durable"
+"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BORDIER","SYLVAIN","agent d'exploitation","District 35","Gerbeur _ ACES","13/11/2030","Durable"
 "Mayenne","BOUTELOUP","WILLIAM","agent d'exploitation","District 35","Gerbeur _ ACES","13/11/2030","Durable"
 "Mayenne","BRUNET","STEPHANE","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BUTET","CHRISTOPHE","agent d'exploitation","District 35","Gerbeur _ ACES","04/12/2030","Durable"
-"Mayenne","CORBELIN","PHILIPPE","chef equipe b","District 35","Gerbeur _ ACES","31/08/2027","Durable"
+"Mayenne","CORBELIN","PHILIPPE","chef equipe b","District 35","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35","Gerbeur _ ACES","13/11/2030","Durable"
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35",NA,NA,NA
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35","Gerbeur _ ACES","13/11/2030","Durable"
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35","Gerbeur _ ACES","13/11/2030","Durable"
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35","Gerbeur _ ACES","13/11/2030","Durable"
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA,NA
@@ -78,14 +78,14 @@
 "Rennes","TEFFO","DAMIEN","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","BARBETTE","OLIVIER","responsable de cei","District 35",NA,NA,NA
 "St Aubin du Cormier","BIGNON","NICOLAS","agent d'exploitation","District 35","Gerbeur _ ACES","04/12/2030","Durable"
-"St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35","Gerbeur _ ACES","31/08/2027","Durable"
+"St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "St Aubin du Cormier","BOISARD","MICKAEL","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","BOURGES","BERNARD","responsable d'explo","District 35",NA,NA,NA
 "St Aubin du Cormier","BRIONNE","ANTOINE","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","CHOW-YUEN","JEAN-MARC","chef equipe b","District 35",NA,NA,NA
 "St Aubin du Cormier","GALESNE","DAMIEN","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","GALESNE","FRANCOIS","agent d'exploitation","District 35",NA,NA,NA
-"St Aubin du Cormier","GERARD","LOIC","chef equipe a","District 35","Gerbeur _ ACES","31/08/2027","Durable"
+"St Aubin du Cormier","GERARD","LOIC","chef equipe a","District 35","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "St Aubin du Cormier","HOCHET","YANNICK","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","JUHEL","ARNAUD","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","LAURET","STEPHANE","agent d'exploitation","District 35",NA,NA,NA

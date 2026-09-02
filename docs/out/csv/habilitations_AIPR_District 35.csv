@@ -10,6 +10,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","AIPR Opérateur","28/11/2028","Durable"
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","AIPR Opérateur","09/10/2029","Durable"
 "Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35","AIPR Opérateur","10/10/2029","Durable"
@@ -44,7 +45,6 @@
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35","AIPR Opérateur","08/12/2027","Durable"
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35",NA,NA,NA
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35","AIPR - Concepteur","20/06/2029","Durable"
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA,NA
@@ -69,7 +69,7 @@
 "Pleumeleuc","HUBERT","STEPHANE","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","L'HOSTIS","MYRIAM","adjoint.e au chef","District 35",NA,NA,NA
 "Pleumeleuc","LAMBERT","JEAN-MICHEL","chef equipe c","District 35",NA,NA,NA
-"Pleumeleuc","LAUNAY","DAVID","agent d'exploitation","District 35","AIPR Opérateur","24/02/2027","Moins d'1 an"
+"Pleumeleuc","LAUNAY","DAVID","agent d'exploitation","District 35","AIPR Opérateur","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","LE MAGUET","PIERRE","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","MOIZAN","MARC","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","MOTAIS","JEROME","chef equipe d","District 35",NA,NA,NA

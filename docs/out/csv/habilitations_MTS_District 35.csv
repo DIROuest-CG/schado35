@@ -10,6 +10,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35","27/03/2030","Durable"
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","04/02/2030","Durable"
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA
 "Bain de Bretagne","THIERRY","MICKAEL",NA,"District 35","03/04/2030","Durable"
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","03/04/2030","Durable"
@@ -35,7 +36,7 @@
 "Chateaubourg","PREAUCHAT","SEBASTIEN","agent d'exploitation","District 35","17/01/2030","Durable"
 "Chateaubourg","TESNIERE","JACQUES","agent d'exploitation","District 35","13/11/2030","Durable"
 "Mayenne","ANSQUER","FREDERIC","responsable d'explo","District 35",NA,NA
-"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35","04/02/2030","Durable"
+"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35",NA,NA
 "Mayenne","BORDIER","SYLVAIN","agent d'exploitation","District 35","20/06/2029","Durable"
 "Mayenne","BOUTELOUP","WILLIAM","agent d'exploitation","District 35","11/09/2029","Durable"
 "Mayenne","BRUNET","STEPHANE","agent d'exploitation","District 35",NA,NA
@@ -44,7 +45,6 @@
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35","11/09/2029","Durable"
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35","11/09/2029","Durable"
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35","11/09/2029","Durable"
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35","25/03/2030","Durable"
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35","11/09/2029","Durable"
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35","27/05/2030","Durable"
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA
