@@ -1,4 +1,20 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
+"Bain de Bretagne","AMAUCE","FREDERIC","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","BOURGINE","THIERRY","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","FERTRE","CHARLY","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","GUIONNET","MARTIAL","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","HAMON","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","JUSTAL","PATRICK","responsable d'explo","District 35",NA,NA,NA
+"Bain de Bretagne","LE QUELLEC","JEAN-CHARLES","chef equipe b","District 35",NA,NA,NA
+"Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
+"Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
+"Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
+"Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","VORIN","JEROME","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","BESNIER","ANTOINE","chef equipe c","District 35",NA,NA,NA
 "Chateaubourg","BESNIER","JEAN-LUC","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","BOISSEAU","GUENOLE","agent d'exploitation","District 35",NA,NA,NA
@@ -59,6 +75,11 @@
 "Rennes","ROUILLE","GAETAN","agent d'exploitation","District 35",NA,NA,NA
 "Rennes","RUAULT","JOHAN","agent d'exploitation","District 35",NA,NA,NA
 "Rennes","TEFFO","DAMIEN","agent d'exploitation","District 35",NA,NA,NA
+"ST 35","BENOIT","DOMINIQUE","agent chargé de tra","District 35",NA,NA,NA
+"ST 35","CAMUS","BERTRAND","ouvrier en  equipe","District 35","Chariot élévateur- téléscopique_ ACES","13/10/2028","Durable"
+"ST 35","COCHARD","CHRISTOPHE","assisitant  de gest","District 35",NA,NA,NA
+"ST 35","LE BERRE","JANICK","ouvrier en  equipe","District 35",NA,NA,NA
+"ST 35","SENCIER","CHRISTOPHE","agent chargé de tra","District 35",NA,NA,NA
 "St Aubin du Cormier","BARBETTE","OLIVIER","responsable de cei","District 35",NA,NA,NA
 "St Aubin du Cormier","BIGNON","NICOLAS","agent d'exploitation","District 35","Chariot élévateur- téléscopique_ ACES","18/06/2030","Durable"
 "St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35",NA,NA,NA
@@ -78,22 +99,6 @@
 "St Aubin du Cormier","TESSIER","MICKAEL","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","TUNIER","ERIC","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","VALLEE","JEAN-LUC","agent d'exploitation","District 35","Chariot élévateur- téléscopique_ ACES","18/06/2030","Durable"
-"Bain de Bretagne","AMAUCE","FREDERIC","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","BOURGINE","THIERRY","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","FERTRE","CHARLY","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","GUIONNET","MARTIAL","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","HAMON","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","JUSTAL","PATRICK","responsable d'explo","District 35",NA,NA,NA
-"Bain de Bretagne","LE QUELLEC","JEAN-CHARLES","chef equipe b","District 35",NA,NA,NA
-"Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
-"Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
-"Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
-"Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","VORIN","JEROME","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","AGUILO","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","BLOT","MICHAEL","agent d'exploitation","District 35",NA,NA,NA

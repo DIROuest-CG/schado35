@@ -1,15 +1,15 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Bain de Bretagne","AMAUCE","FREDERIC","agent d'exploitation","District 35","Gerbeur _ ACES","24/04/2030","Durable"
 "Bain de Bretagne","BOURGINE","THIERRY","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35","Gerbeur _ ACES","05/09/2027","Durable"
+"Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Bain de Bretagne","FERTRE","CHARLY","agent d'exploitation","District 35","Gerbeur _ ACES","24/04/2030","Durable"
 "Bain de Bretagne","GUIONNET","MARTIAL","agent d'exploitation","District 35","Gerbeur _ ACES","24/04/2030","Durable"
 "Bain de Bretagne","HAMON","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","JUSTAL","PATRICK","responsable d'explo","District 35","Gerbeur _ ACES","24/04/2030","Durable"
-"Bain de Bretagne","LE QUELLEC","JEAN-CHARLES","chef equipe b","District 35","Gerbeur _ ACES","05/09/2027","Durable"
+"Bain de Bretagne","LE QUELLEC","JEAN-CHARLES","chef equipe b","District 35","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35","Gerbeur _ ACES","24/04/2030","Durable"
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","Gerbeur _ ACES","05/09/2027","Durable"
+"Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","Gerbeur _ ACES","24/04/2030","Durable"
@@ -122,3 +122,8 @@
 "Pleumeleuc","SAID","YOUSSOUF","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","TABUREL","JEAN-PHILIPPE","chef equipe e","District 35",NA,NA,NA
 "Pleumeleuc","TABUREL","JOSSELIN","agent d'exploitation","District 35",NA,NA,NA
+"ST 35","BENOIT","DOMINIQUE","agent chargé de tra","District 35",NA,NA,NA
+"ST 35","CAMUS","BERTRAND","ouvrier en  equipe","District 35",NA,NA,NA
+"ST 35","COCHARD","CHRISTOPHE","assisitant  de gest","District 35",NA,NA,NA
+"ST 35","LE BERRE","JANICK","ouvrier en  equipe","District 35",NA,NA,NA
+"ST 35","SENCIER","CHRISTOPHE","agent chargé de tra","District 35",NA,NA,NA
